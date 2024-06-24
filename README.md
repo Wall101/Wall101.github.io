@@ -1,61 +1,18 @@
-# Chirpy Starter
+# VPN-LAB
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+欢迎来到VPN-LAB，我们致力于为您提供最全面、最可靠的VPN服务测评和推荐。我们的目标是帮助您找到最适合您的VPN服务，无论您身处哪个国家，使用哪种平台。
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## 我们的服务
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+- **全平台覆盖**：我们针对iOS、Android和PC等主要平台进行详细的VPN服务测评，确保每位用户都能找到适合自己的VPN解决方案。
+- **全球范围测试**：我们的测评覆盖全球多个国家，评估各地的VPN表现，帮助您了解在不同地区使用VPN的效果。
+- **月度更新**：我们每月更新测评内容，提供最新的VPN服务信息和性能对比，确保您能获取到最权威、最新的参考资料。
+- **优惠价格推荐**：根据我们的测评结果，我们还会为您推荐各大VPN服务商的最优惠价格，帮助您以最划算的方式享受优质的VPN服务。
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 联系我们
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+如果您有任何问题或需要进一步的帮助，请随时联系我们。我们期待与您的沟通，共同提升您的数字生活安全和隐私保护体验。
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+感谢您的支持！
 
-## Prerequisites
-
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
-
-## Installation
-
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```console
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## Contributing
-
-The contents of this repository are automatically updated when new releases are made to the [main repository][chirpy].  
-If you have problems using it, or would like to participate in improving it, please go to the main repository for feedback!
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+VPN-LAB团队
