@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: VPN-LAB # the main title
 
-VPN-LAB: VPN theory
+VPN-LAB: 每月更新，全面支持iOS、Android和PC，保障您的数字生活安全
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -29,7 +29,7 @@ github:
   username: Wall101 # change to your github username
 
 twitter:
-  username: wall101_com # change to your twitter username
+  username: https://twitter.com/wall101_com # change to your twitter username
 
 social:
   # Change to your full name.
