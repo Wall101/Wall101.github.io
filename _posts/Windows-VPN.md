@@ -1,5 +1,5 @@
 ---
-title: iOS-VPN
+title: Windows-VPN
 date: 2024-06-21 12:00:00 -500
 categories: [device]
 tags: [servers]
