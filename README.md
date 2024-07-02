@@ -12,6 +12,10 @@
 最近更新：`2024年07月02号`
 
 
+<img src="./assets/sample/vpn_performance_comparison.png" alt="drawing" width="1000"/>
+
+
+
 ## 联系我们
 
 如果您有任何问题或需要进一步的帮助，请随时联系我们。我们期待与您的沟通，共同提升您的数字生活安全和隐私保护体验。
