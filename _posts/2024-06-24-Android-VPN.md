@@ -82,7 +82,7 @@ tags: [servers]
 
 最近更新：`2024年08月23号`
 
-# VPN实验室2024年7月最新翻墙报告
+# VPN实验室2024年08月最新翻墙报告
 
 最近更新: `2024年08月23号`
 
@@ -106,7 +106,7 @@ tags: [servers]
 3. **持续更新**: 我们承诺每月更新测试结果,确保信息的时效性。
 4. **避坑指南**: 我们将揭露那些看似美好实则无用的VPN服务,帮你省时省钱。
 
-## 🏆 2024年7月VPN推荐榜单
+## 🏆 2024年08月VPN推荐榜单
 
 1. **最佳综合表现**: [StrongVPN](https://strongvpn.com/?tr_aid=60d96b5810e50&chan=wall101&data1=pc-vpn&data2=table)
    - 稳定性和速度的完美平衡
@@ -140,7 +140,7 @@ tags: [servers]
 记住,在这个信息时代,获取知识的自由至关重要。让我们一起突破界限,拥抱更广阔的世界!
 
 ## 最新本月翻墙新闻更新
-微软在2024年7月发布的最新安全更新可能导致Windows用户的VPN连接出现问题。受影响的操作系统包括Windows 11、Windows 10以及Windows Server 2008及以上版本。部分用户在Reddit上反映更新后无法连接VPN，尽管有些用户通过重新安装VPN应用暂时解决了问题。微软已确认此问题，并表示将在未来的更新中修复。这一情况与微软CEO Satya Nadella强调的安全优先的立场形成了对比。
+微软在2024年08月发布的最新安全更新可能导致Windows用户的VPN连接出现问题。受影响的操作系统包括Windows 11、Windows 10以及Windows Server 2008及以上版本。部分用户在Reddit上反映更新后无法连接VPN，尽管有些用户通过重新安装VPN应用暂时解决了问题。微软已确认此问题，并表示将在未来的更新中修复。这一情况与微软CEO Satya Nadella强调的安全优先的立场形成了对比。
 <a rel="nofollow noopener" href="https://tw.news.yahoo.com/microsofts-latest-windows-security-updates-might-break-your-vpn-001216447.html" target="_blank">完整内容可以在原文链接查看</a>
 
 
