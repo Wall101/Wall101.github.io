@@ -1,5 +1,5 @@
 ---
-title: MAC-VPN
+title: Iphone-VPN
 date: 2024-06-24 12:00:00 +0800
 categories: [device]
 tags: [servers]
@@ -61,4 +61,4 @@ tags: [servers]
 
  -->
 
-最近更新：`2024年08月23号`
+最近更新：`2024年08月26号`
